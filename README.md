@@ -1,6 +1,7 @@
 # Japan Stock Master (CSV)
 
-20260127時点データ
+20260127時点データ  
+https://www.jpx.co.jp/markets/statistics-equities/misc/01.html
 
 ## Files
 - `data/master.csv`
