@@ -3,6 +3,9 @@
 20260127時点データ  
 https://www.jpx.co.jp/markets/statistics-equities/misc/01.html
 
+raw  
+https://raw.githubusercontent.com/skr-works/ticker-master-japan/refs/heads/main/data/master.csv
+
 ## Files
 - `data/master.csv`
 
